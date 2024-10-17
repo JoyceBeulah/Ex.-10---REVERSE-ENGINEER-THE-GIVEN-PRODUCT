@@ -33,10 +33,10 @@
 ## Input:
 
 ### Output:
+![image](https://github.com/VARSHINI22009118/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119401150/2fa8ab18-a7c9-408c-80ae-05dd98973536)
 
-
-### Name:
-### Register Number:
+### Name: Joyce Beulah R
+### Register Number: 21222230058
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.

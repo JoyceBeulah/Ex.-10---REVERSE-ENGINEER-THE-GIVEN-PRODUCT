@@ -35,8 +35,8 @@
 
 ### Output:
 ![image](https://github.com/user-attachments/assets/82f221ee-e6e8-4c36-b141-df6f64b30243)
-### Name: Joyce Beulah R
-### Register Number: 212222230058
+### Name: Iyyanar S
+### Register Number: 212222240036
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
